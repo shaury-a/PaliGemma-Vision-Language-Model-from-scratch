@@ -1,0 +1,11 @@
+ran inference for pic2.jpeg, 
+
+model input - the name of the monument is
+model output - the name of the monument is tower
+
+model input - this monument is
+model output - this monument is the most photographed landmark in the world
+
+
+model input - this tower is in
+model output - this tower is in paris
